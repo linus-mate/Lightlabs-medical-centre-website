@@ -30,6 +30,7 @@ html{
 	padding-top: 2%;
 	margin-bottom: 5px;
 	margin-left: 10px;
+	border-radius: 10px;
 }
 .menu-icons{
 	display: flex;
